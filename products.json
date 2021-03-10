@@ -4,7 +4,7 @@
 			"name" : "Awesome T-shirt",
 			"price" : "R$ 35.99",
 			"options" : [
-				{ "Tamanho" : "Small,Medium,Large" }
+				{ "Size" : "Small,Medium,Large" }
 			],
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
 			"description" : "This is a very awesome grey T-shirt"
@@ -13,7 +13,7 @@
 			"name" : "Cool T-shirt",
 			"price" : "R$ 15.99",
 			"options" : [
-				{ "Tamanho" : "Small,Medium,Large" },
+				{ "Size" : "Small,Medium,Large" },
 				{ "Color" : "Blue,Red" },
 			    { "OneOfAKind" : true }
 			],
@@ -24,7 +24,7 @@
 			"name" : "Fun T-shirt",
 			"price" : "R$ 15.99",
 			"options" : [
-				{ "tamanho" : "Small,Medium,Large" }
+				{ "Size" : "Small,Medium,Large" }
 			],
 			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
 			"description" : "This is another fun grey T-shirt"
