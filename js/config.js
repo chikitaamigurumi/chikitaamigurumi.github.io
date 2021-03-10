@@ -30,7 +30,7 @@ $(function() {
 	    data: {},
 
 	    // set the cart langauge (may be used for checkout)
-	    language: "pt-br",
+	    language: "english-us",
 
 	    // array of item fields that will not be sent to checkout
 	    excludeFromCheckout: [
