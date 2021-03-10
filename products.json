@@ -2,7 +2,7 @@
 	"products" : [
 		{
 			"nome" : "Awesome T-shirt",
-			"price" : "35.99",
+			"preço" : "R$ 35.99",
 			"options" : [
 				{ "Tamanho" : "Small,Medium,Large" }
 			],
@@ -11,7 +11,7 @@
 		},
 		{
 			"nome" : "Cool T-shirt",
-			"price" : "15.99",
+			"preço" : "R$ 15.99",
 			"options" : [
 				{ "Tamanho" : "Small,Medium,Large" },
 				{ "Color" : "Blue,Red" },
@@ -22,7 +22,7 @@
 		},
 		{
 			"nome" : "Fun T-shirt",
-			"price" : "15.99",
+			"preço" : "R$ 15.99",
 			"options" : [
 				{ "tamanho" : "Small,Medium,Large" }
 			],
