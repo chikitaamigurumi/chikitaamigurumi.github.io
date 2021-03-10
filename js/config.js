@@ -23,14 +23,14 @@ $(function() {
 	    },
 
 	    // set the currency, see the currency reference for more info
-	    currency: "USD",
+	    currency: "BRL",
 
 	    // collection of arbitrary data you may want to store with the cart,
 	    // such as customer info
 	    data: {},
 
 	    // set the cart langauge (may be used for checkout)
-	    language: "english-us",
+	    language: "pt-br",
 
 	    // array of item fields that will not be sent to checkout
 	    excludeFromCheckout: [
